@@ -1,4 +1,4 @@
-cd /Users/henry/Documents/Pd
+cd /Users/${USER}/Documents/Pd
 
 git add --all .
 
