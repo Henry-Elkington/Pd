@@ -1,3 +1,5 @@
+cd /Users/henry/Documents/Pd
+
 git add --all .
 
 echo 'Enter the commit message:'
