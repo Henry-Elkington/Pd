@@ -10,3 +10,5 @@ git commit -m ${commitMessage}
 git push -u origin master
 
 read
+
+exit
